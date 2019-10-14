@@ -8,7 +8,7 @@ import "./index.css";
 function App() {
   return (
     <div className="App">
-      <h1>Hello InExtensioDigital</h1>
+      <h1>Hello InExtensoDigital</h1>
       <MainContainer />
     </div>
   );
